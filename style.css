@@ -25,7 +25,7 @@ body{
 }
 #home{
   width: 100vw;
-  min-height: 100vh;
+  height: 100vh;
   background-image: url(chicken_dish.jpg);
   background-size: cover;
 }
